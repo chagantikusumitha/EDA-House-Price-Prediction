@@ -21,3 +21,4 @@ We have collected data by using Web Scrapping
        If we get the status code as 200 we can scrap the HTML  context  from webpage.
        BeautifulSoup is a python library for extracting  the data from HTML files.
 
+ In this way after collecting the data we have stored it systematically in a Data Frame
