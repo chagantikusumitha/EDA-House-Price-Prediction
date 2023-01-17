@@ -90,3 +90,11 @@ In Hitech City prices of houses are high where as Sadashivpet has low prices.
 Buying a house directly from the owner costs less price when compared to buying from agent or builder._
  
 We conclude that House price prediction can help the developer determine the selling price of a house and can help the customer to arrange the right time to purchase a house. There are three factors that influence the price of a house which include sft,construction status,type and location. 
+
+
+## References
+
+These are the reference sites for collecting real estate data apart from the one I used
+https://www.99acres.com/
+https://www.commonfloor.com/
+https://www.modibuilders.com/
