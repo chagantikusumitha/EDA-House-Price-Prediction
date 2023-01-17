@@ -21,4 +21,20 @@ We have collected data by using Web Scrapping
        If we get the status code as 200 we can scrap the HTML  context  from webpage.
        BeautifulSoup is a python library for extracting  the data from HTML files.
 
- In this way after collecting the data we have stored it systematically in a Data Frame
+In this way after collecting the data we have stored it systematically in a Data Frame
+Now the data collected looks in this way
+![image](https://user-images.githubusercontent.com/92007497/212983576-ea7a1f53-3e53-4357-bfbd-2077dcff50a7.png)
+
+
+### 2. Data Cleaning
+Data Cleaning is a process of Removing duplicate or irrelevant data, Fix structural errors, Handle missing data, Validate the quality of data.
+The cleaned data looks in this way
+![image](https://user-images.githubusercontent.com/92007497/212987795-e0ffd00b-86a3-46d5-adb8-21c9f1feeda1.png)
+Data cleaning is done in the following steps:
+   Dropped Titles column after extracting Type , Colony and BHK from it.
+   Dropped colony column as there are many null values in it.
+   Got all the inaccurate values for BHK of residential plot columns, so filled it with mode based on sft.
+   Filled null values for Handover column based on construction_status of the house.
+   Dropped duplicate rows.
+   Extracted type of seller data from seller_info column.
+
