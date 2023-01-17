@@ -2,7 +2,7 @@
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.      
 Here, We are exploring all the features in determining Price of a house in Hyderabad.
 
-## Steps Involved in Exploratory Data Analysis are:
+## Steps Involved for Exploratory Data Analysis are:
 
 ___1. Data Collection___      
 ___2. Data Cleaning___          
@@ -37,4 +37,19 @@ Data cleaning is done in the following steps:
  -  Filled null values for Handover column based on construction_status of the house.   
  -  Dropped duplicate rows.   
  -  Extracted type of seller data from seller_info column.   
+
+
+### 3. Data Manipulation
+Data Manipulation is done to sort Outliers of the data because Outliers are those which are extremely high or low values compared to the whole data. If outliers are not sorted it effects the whole data analysis results
+
+Sorting outliers is done for all the numerical columns of the data which include BHK,sft,Costpersft,Prices columns by using the following steps :
+ - Sorting values from low to high and checking minimum and maximum values.
+ - Visualizing data with a box plot and looking for outliers.
+ - Using the interquartile range to create fences for your data.
+ - Using statistical procedures to identify extreme values.
+ - Replacing the outliers with median values of the data
+
+### 4. Data Analysis
+Data analysis can be classified as Univariate, Bivariate, and Multivariate analysis.   
+Univariate analysis looks at one variable, Bivariate analysis looks at two variables and their relationship. Multivariate analysis looks at more than two variables and their relationship.
 
