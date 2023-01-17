@@ -75,6 +75,8 @@ By using all these analysis we understood that,
 
 ## Conclusion
 
+Finally, we can say that exploratory data analysis is a proven methodology that can help Data Scientists to make sense of complex datasets. By using visualizations and other methods, you can uncover patterns and relationships similar to the following relationships.
+
 > _According to the data, 59.7% are 3 BHK properties, 31.2% are 2 BHK properties,8.5% are 4 BHK properties and 0.6% are 1 BHK properties.      
 Maximum number of houses are Apartments and Under construction.             
 Maximum number of houses are in Kompally ,Hyderabad.             
@@ -85,4 +87,5 @@ In Apartment and Independent houses we have 2 and 3 BHK houses only.
 Houses which are in the area range 500 sqft to 2000 sqft have the price range 40 lakhs to 2.6Crores               
 In Hitech City prices of houses are high where as Sadashivpet has low prices.                   
 Buying a house directly from the owner costs less price when compared to buying from agent or builder._
-
+ 
+We conclude that House price prediction can help the developer determine the selling price of a house and can help the customer to arrange the right time to purchase a house. There are three factors that influence the price of a house which include sft,construction status,type and location. 
