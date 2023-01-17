@@ -52,4 +52,10 @@ Sorting outliers is done for all the numerical columns of the data which include
 ### 4. Data Analysis
 Data analysis can be classified as Univariate, Bivariate, and Multivariate analysis.   
 Univariate analysis looks at one variable, Bivariate analysis looks at two variables and their relationship. Multivariate analysis looks at more than two variables and their relationship.
+By using all these analysis we understood that, When sft of the house increases Prices also increases
+![image](https://user-images.githubusercontent.com/92007497/212992798-877f8eef-e397-4125-9380-e0bbd6b6ffce.png)
+
+These are the locations where prices are high.    
+Here Hitech City is frequently repeated which means Hitech City has the more highest Prices among all the Locations
+![image](https://user-images.githubusercontent.com/92007497/212993281-026c1045-e3bc-49e3-8e6c-80a76ed78ed8.png)
 
