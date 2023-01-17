@@ -6,7 +6,7 @@ Here, We are exploring all the features in determining Price of a house in Hyder
 
 Exploratory Data Analysis (EDA) is an approach to analyze the data using visual techniques. It is used to discover trends, patterns, or to check assumptions with the help of statistical summary and graphical representations.It allows teams within businesses to collaborate and achieve better results. It is useful for businesses to analyse past business performance and optimize future business processes.Hence, it is mainly used in decision making.   
 
-House Price prediction, is important to drive Real Estate efficiency. As earlier, House prices were determined by calculating the acquiring and selling price in a locality. Therefore, the House Price prediction model is very essential in filling the information gap and improve Real Estate efficiency. With this model, we would be able to better predict the prices.
+House Price prediction, is important to drive Real Estate efficiency. As earlier, House prices were determined by calculating the acquiring and selling price in a locality. Therefore, the House Price prediction is very essential in filling the information gap and improve Real Estate efficiency. With this, we would be able to better predict the prices.
 
 # Contents :
 
