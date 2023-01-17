@@ -60,15 +60,29 @@ Data analysis can be classified as Univariate, Bivariate, and Multivariate analy
 Univariate analysis looks at one variable, Bivariate analysis looks at two variables and their relationship. Multivariate analysis looks at more than two variables and their relationship.     
 By using all these analysis we understood that,        
 
-When sft of the house increases Prices also increases                  
+ - When sft of the house increases Prices also increases                  
 ![image](https://user-images.githubusercontent.com/92007497/212992798-877f8eef-e397-4125-9380-e0bbd6b6ffce.png)
 
-These are the locations where prices are high.        
-Here Hitech City is frequently repeated which means Hitech City has the more highest Prices among all the Locations
+ - These are the locations where prices are high.        
+ - Here Hitech City is frequently repeated which means Hitech City has the more highest Prices among all the Locations
 ![image](https://user-images.githubusercontent.com/92007497/212996523-9346dffb-287b-4fbe-9d75-3c5b8b09512b.png)
 
 
-These are the locations where prices are low          
-Here Sadashivpet and Shadnagar is frequently repeated which means these has the lowest Prices among all the Locations           
+ - These are the locations where prices are low          
+ - Here Sadashivpet and Shadnagar is frequently repeated which means these has the lowest Prices among all the Locations           
 ![image](https://user-images.githubusercontent.com/92007497/212993893-89fdba5e-2b06-4abd-b16c-336f2a2bbd19.png)
 
+
+## Conclusion
+
+> _According to the data, 59.7% are 3 BHK properties, 31.2% are 2 BHK properties,8.5% are 4 BHK properties and 0.6% are 1 BHK properties._
+> Maximum number of houses are Apartments and Under construction.
+> Maximum number of houses are in Kompally ,Hyderabad.
+> All the numerical columns have positive correlation
+As the sqft increases the no. of bhk’s and total price increases
+Villa has more sft and 4bhks and 5bhk’s compared to apartment and independent houses.
+In Apartment and Independent houses we have 2 and 3 BHK houses only.
+Houses which are in the area range 500 sqft to 2000 sqft have the price range 40 lakhs to 2.6Crores 
+In Hitech City prices of houses are high where as Sadashivpet has low prices.
+Buying a house directly from the owner costs less price when compared to buying from agent or builder.
+![image](https://user-images.githubusercontent.com/92007497/212997514-f27ea8ff-a582-4ee2-9124-2ffa1b1da335.png)
