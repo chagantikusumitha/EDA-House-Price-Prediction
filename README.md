@@ -31,10 +31,10 @@ Data Cleaning is a process of Removing duplicate or irrelevant data, Fix structu
 The cleaned data looks in this way
 ![image](https://user-images.githubusercontent.com/92007497/212987795-e0ffd00b-86a3-46d5-adb8-21c9f1feeda1.png)
 Data cleaning is done in the following steps:
-   Dropped Titles column after extracting Type , Colony and BHK from it.
-   Dropped colony column as there are many null values in it.
-   Got all the inaccurate values for BHK of residential plot columns, so filled it with mode based on sft.
-   Filled null values for Handover column based on construction_status of the house.
-   Dropped duplicate rows.
-   Extracted type of seller data from seller_info column.
+   Dropped Titles column after extracting Type , Colony and BHK from it.   
+   Dropped colony column as there are many null values in it.    
+   Got all the inaccurate values for BHK of residential plot columns, so filled it with mode based on sft.    
+   Filled null values for Handover column based on construction_status of the house.   
+   Dropped duplicate rows.   
+   Extracted type of seller data from seller_info column.   
 
