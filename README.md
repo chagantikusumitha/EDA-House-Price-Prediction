@@ -11,10 +11,10 @@ House Price prediction, is important to drive Real Estate efficiency. As earlier
 # Contents :
 
 ## Steps Involved for Exploratory Data Analysis are:
-Step1 - Data Collection.ipynb    :  ___1. Data Collection___                       
-Step2 - Data Cleaning.ipynb      :  ___2. Data Cleaning___                    
-Step3 - Data Manipulation.ipynb  :  ___3. Data Manipulation___               
-Step4 - Data Analysis.ipynb      :  ___4. Data Analysis___                                
+Step1 - Data Collection.ipynb    :  ___Data Collection___                       
+Step2 - Data Cleaning.ipynb      :  ___Data Cleaning___                    
+Step3 - Data Manipulation.ipynb  :  ___Data Manipulation___               
+Step4 - Data Analysis.ipynb      :  ___Data Analysis___                                
 
 
 ### 1. Data Collection 
