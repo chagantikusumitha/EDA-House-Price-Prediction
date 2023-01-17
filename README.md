@@ -24,7 +24,7 @@ We have collected data by using Web Scrapping
 ##### Web Scrapping :
        Web scraping is a software technique of extracting information from the website .
        It  takes the unstructured data into structured data that can be stored and analyzed.
-       We have to send a request to the URL of the webpage we want to access .  
+       We have to send a request to the URL of the webpage .  
        If we get the status code as 200 we can scrap the HTML  context  from webpage.
        BeautifulSoup is a python library for extracting  the data from HTML files.
 
