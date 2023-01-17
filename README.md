@@ -75,14 +75,14 @@ By using all these analysis we understood that,
 
 ## Conclusion
 
-> _According to the data, 59.7% are 3 BHK properties, 31.2% are 2 BHK properties,8.5% are 4 BHK properties and 0.6% are 1 BHK properties._
-> Maximum number of houses are Apartments and Under construction.
-> Maximum number of houses are in Kompally ,Hyderabad.
-> All the numerical columns have positive correlation
+> _According to the data, 59.7% are 3 BHK properties, 31.2% are 2 BHK properties,8.5% are 4 BHK properties and 0.6% are 1 BHK properties._       
+Maximum number of houses are Apartments and Under construction.
+Maximum number of houses are in Kompally ,Hyderabad.
+All the numerical columns have positive correlation
 As the sqft increases the no. of bhk’s and total price increases
 Villa has more sft and 4bhks and 5bhk’s compared to apartment and independent houses.
 In Apartment and Independent houses we have 2 and 3 BHK houses only.
 Houses which are in the area range 500 sqft to 2000 sqft have the price range 40 lakhs to 2.6Crores 
 In Hitech City prices of houses are high where as Sadashivpet has low prices.
 Buying a house directly from the owner costs less price when compared to buying from agent or builder.
-![image](https://user-images.githubusercontent.com/92007497/212997514-f27ea8ff-a582-4ee2-9124-2ffa1b1da335.png)
+
