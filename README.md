@@ -60,7 +60,8 @@ Data analysis can be classified as Univariate, Bivariate, and Multivariate analy
 Univariate analysis looks at one variable, Bivariate analysis looks at two variables and their relationship. Multivariate analysis looks at more than two variables and their relationship.     
 By using all these analysis we understood that,        
 
-When sft of the house increases Prices also increases ![image](https://user-images.githubusercontent.com/92007497/212992798-877f8eef-e397-4125-9380-e0bbd6b6ffce.png)
+When sft of the house increases Prices also increases                  
+![image](https://user-images.githubusercontent.com/92007497/212992798-877f8eef-e397-4125-9380-e0bbd6b6ffce.png)
 
 These are the locations where prices are high.        
 Here Hitech City is frequently repeated which means Hitech City has the more highest Prices among all the Locations
