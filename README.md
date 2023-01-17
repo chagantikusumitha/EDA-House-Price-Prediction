@@ -13,3 +13,14 @@ ___4. Data Analysis___
 ### 1. Data Collection 
 Data collection is a process of gathering information from all the relevant sources and sorting it in a systematic order which is easily understandable.   
 Here, We have used a website called https://www.makaan.com/real-estate-hyderabad-property for collecting data.
+We have collected data by using Web Scrapping
+##### Web Scrapping :
+Web scraping is a software technique of extracting information from the website .
+
+It  takes the unstructured data into structured data that can be stored and analyzed.
+
+We have to send a request to the URL of the webpage we want to access .     If we get the status code as 200 we can scrap the HTML  context  from webpage.
+
+BeautifulSoup is a python library for extracting  the data from HTML files.
+![image](https://user-images.githubusercontent.com/92007497/212982560-5048ef2d-2664-4783-b821-21b7ae97b8d4.png)
+
