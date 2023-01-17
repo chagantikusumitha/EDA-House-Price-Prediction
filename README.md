@@ -10,10 +10,10 @@ House Price prediction, is important to drive Real Estate efficiency. As earlier
 
 ## Steps Involved for Exploratory Data Analysis are(Contents):
 
-___1. Data Collection___     :  Step1 - Data Collection.ipynb 
-___2. Data Cleaning___       :  Step2 - Data Cleaning.ipynb
-___3. Data Manipulation___   :  Step3 - Data Manipulation.ipynb 
-___4. Data Analysis___       :  Step4 - Data Analysis.ipynb  
+___1. Data Collection___     :  Step1 - Data Collection.ipynb      
+___2. Data Cleaning___       :  Step2 - Data Cleaning.ipynb       
+___3. Data Manipulation___   :  Step3 - Data Manipulation.ipynb        
+___4. Data Analysis___       :  Step4 - Data Analysis.ipynb             
 
 
 ### 1. Data Collection 
@@ -60,12 +60,12 @@ Data analysis can be classified as Univariate, Bivariate, and Multivariate analy
 Univariate analysis looks at one variable, Bivariate analysis looks at two variables and their relationship. Multivariate analysis looks at more than two variables and their relationship.     
 By using all these analysis we understood that,        
 
-When sft of the house increases Prices also increases
-![image](https://user-images.githubusercontent.com/92007497/212992798-877f8eef-e397-4125-9380-e0bbd6b6ffce.png)
+When sft of the house increases Prices also increases ![image](https://user-images.githubusercontent.com/92007497/212992798-877f8eef-e397-4125-9380-e0bbd6b6ffce.png)
 
 These are the locations where prices are high.        
 Here Hitech City is frequently repeated which means Hitech City has the more highest Prices among all the Locations
-![image](https://user-images.githubusercontent.com/92007497/212993607-7ca7c5c9-ff48-4622-be82-52475f01432f.png)
+![image](https://user-images.githubusercontent.com/92007497/212996523-9346dffb-287b-4fbe-9d75-3c5b8b09512b.png)
+
 
 These are the locations where prices are low          
 Here Sadashivpet and Shadnagar is frequently repeated which means these has the lowest Prices among all the Locations           
