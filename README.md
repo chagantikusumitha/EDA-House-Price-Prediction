@@ -94,7 +94,7 @@ We conclude that House price prediction can help the developer determine the sel
 
 ## References
 
-These are the reference sites for collecting real estate data apart from the one I used
-https://www.99acres.com/
-https://www.commonfloor.com/
-https://www.modibuilders.com/
+These are the reference sites for collecting real estate data apart from the one I used.              
+https://www.99acres.com                                              
+https://www.commonfloor.com                   
+https://www.modibuilders.com               
