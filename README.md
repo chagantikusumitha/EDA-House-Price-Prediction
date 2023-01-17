@@ -8,12 +8,13 @@ Exploratory Data Analysis (EDA) is an approach to analyze the data using visual 
 
 House Price prediction, is important to drive Real Estate efficiency. As earlier, House prices were determined by calculating the acquiring and selling price in a locality. Therefore, the House Price prediction model is very essential in filling the information gap and improve Real Estate efficiency. With this model, we would be able to better predict the prices.
 
-## Steps Involved for Exploratory Data Analysis are(Contents):
+# Contents :
 
-___1. Data Collection___     :  Step1 - Data Collection.ipynb      
-___2. Data Cleaning___       :  Step2 - Data Cleaning.ipynb       
-___3. Data Manipulation___   :  Step3 - Data Manipulation.ipynb        
-___4. Data Analysis___       :  Step4 - Data Analysis.ipynb             
+## Steps Involved for Exploratory Data Analysis are:
+Step1 - Data Collection.ipynb    :  ___1. Data Collection___                       
+Step2 - Data Cleaning.ipynb      :  ___2. Data Cleaning___                    
+Step3 - Data Manipulation.ipynb  :  ___3. Data Manipulation___               
+Step4 - Data Analysis.ipynb      :  ___4. Data Analysis___                                
 
 
 ### 1. Data Collection 
