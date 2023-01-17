@@ -26,9 +26,9 @@ We have collected data by using Web Scrapping
        It  takes the unstructured data into structured data that can be stored and analyzed.
        We have to send a request to the URL of the webpage .  
        If we get the status code as 200 we can scrap the HTML context from webpage.
-       BeautifulSoup is a python library for extracting  the data from HTML files.
+       BeautifulSoup is a python library for extracting the data from HTML files.
 
-In this way after collecting the data we have stored it systematically in a Data Frame
+In this way after collecting the data we have stored it systematically in a Data Frame              
 Now the data collected looks in this way
 ![image](https://user-images.githubusercontent.com/92007497/212983576-ea7a1f53-3e53-4357-bfbd-2077dcff50a7.png)
 
