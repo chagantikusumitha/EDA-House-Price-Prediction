@@ -2,12 +2,18 @@
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.      
 Here, We are exploring all the features in determining Price of a house in Hyderabad.
 
-## Steps Involved for Exploratory Data Analysis are:
+# What is the use?
 
-___1. Data Collection___      
-___2. Data Cleaning___          
-___3. Data Manipulation___        
-___4. Data Analysis___            
+Exploratory Data Analysis (EDA) is an approach to analyze the data using visual techniques. It is used to discover trends, patterns, or to check assumptions with the help of statistical summary and graphical representations.It allows teams within businesses to collaborate and achieve better results. It is useful for businesses to analyse past business performance and optimize future business processes.Hence, it is mainly used in decision making.   
+
+House Price prediction, is important to drive Real Estate efficiency. As earlier, House prices were determined by calculating the acquiring and selling price in a locality. Therefore, the House Price prediction model is very essential in filling the information gap and improve Real Estate efficiency. With this model, we would be able to better predict the prices.
+
+## Steps Involved for Exploratory Data Analysis are(Contents):
+
+___1. Data Collection___     :  Step1 - Data Collection.ipynb 
+___2. Data Cleaning___       :  Step2 - Data Cleaning.ipynb
+___3. Data Manipulation___   :  Step3 - Data Manipulation.ipynb 
+___4. Data Analysis___       :  Step4 - Data Analysis.ipynb  
 
 
 ### 1. Data Collection 
@@ -51,11 +57,17 @@ Sorting outliers is done for all the numerical columns of the data which include
 
 ### 4. Data Analysis
 Data analysis can be classified as Univariate, Bivariate, and Multivariate analysis.   
-Univariate analysis looks at one variable, Bivariate analysis looks at two variables and their relationship. Multivariate analysis looks at more than two variables and their relationship.
-By using all these analysis we understood that, When sft of the house increases Prices also increases
+Univariate analysis looks at one variable, Bivariate analysis looks at two variables and their relationship. Multivariate analysis looks at more than two variables and their relationship.     
+By using all these analysis we understood that,        
+
+When sft of the house increases Prices also increases
 ![image](https://user-images.githubusercontent.com/92007497/212992798-877f8eef-e397-4125-9380-e0bbd6b6ffce.png)
 
-These are the locations where prices are high.    
+These are the locations where prices are high.        
 Here Hitech City is frequently repeated which means Hitech City has the more highest Prices among all the Locations
-![image](https://user-images.githubusercontent.com/92007497/212993281-026c1045-e3bc-49e3-8e6c-80a76ed78ed8.png)
+![image](https://user-images.githubusercontent.com/92007497/212993607-7ca7c5c9-ff48-4622-be82-52475f01432f.png)
+
+These are the locations where prices are low          
+Here Sadashivpet and Shadnagar is frequently repeated which means these has the lowest Prices among all the Locations           
+![image](https://user-images.githubusercontent.com/92007497/212993893-89fdba5e-2b06-4abd-b16c-336f2a2bbd19.png)
 
